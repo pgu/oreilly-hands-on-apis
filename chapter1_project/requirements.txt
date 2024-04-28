@@ -1,2 +1,2 @@
 #Chapter 1 pip requirements
-SQLAlchemy==1.4.49git
+SQLAlchemy==1.4.49
