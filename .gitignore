@@ -1,0 +1,17 @@
+#gitignore for part 1
+.mypy_cache
+.vscode
+__pycache__
+.pytest_cache
+
+# macOS
+.DS_Store
+
+# google cloud
+**/gcloud/
+**/google-cloud-sdk/
+*.gz
+
+# AWS
+**/aws
+*.zip
